@@ -1,12 +1,13 @@
-### Welcome 👋 I am Carol! 
+### Welcome 👋 I am Carol! 🖖
 
 
 - 🔭 I’m currently working on fullstack development
 - 👩‍🎓 I'm studying analysis and systems development at College Impacta 
-- 🌱 I’m currently learning React
+- 👩🏻‍💻 I’m currently learning React
 - 🤔 I’m looking for help with React
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: before studying development, I studied physics! 👩‍🏫
+- 💁🏻‍♀️ Pronouns: she/her
+- 👩🏻‍🏫 Fun fact: before studying development, I studied physics!
+- 📍 I'm living in São Paulo
 
 <div>
   <a href="https://github.com/carol-cloud">
