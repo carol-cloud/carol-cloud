@@ -1,7 +1,7 @@
 ### Welcome 👋 I am Carol! 🖖
 
 
-- 🔭 I’m currently working on fullstack development
+- 🔭 I’m currently working on frontend development
 - 👩‍🎓 I'm studying analysis and systems development at College Impacta 
 - 👩🏻‍💻 I’m currently learning Svelte
 - 🤔 I’m looking for help with React
