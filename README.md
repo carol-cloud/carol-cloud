@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with React
 - 💁🏻‍♀️ Pronouns: she/her
 - 👩🏻‍🏫 Fun fact: before studying development, I studied physics!
-- 📍 I'm living in São Paulo
+- 📍 I'm living in São Paulo, but i'm from Pernambuco
 
 <div>
   <a href="https://github.com/carol-cloud">
