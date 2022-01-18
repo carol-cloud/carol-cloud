@@ -24,7 +24,7 @@
   <img align="center" alt="Logotipo Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Logotipo Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Logotipo Dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
-  <img align="right" height="180em" alt="Carol-gif" src="https://i.picasion.com/pic91/465006f9d3bd211ba761d592c9d2e912.gif">
+  <img align="right" height="180em" alt="Carol-gif" src="https://i.imgur.com/9WWnF7M.gif">
 </div>
   
   ##
