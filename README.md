@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on frontend development
 - 👩‍🎓 I'm studying analysis and systems development at College Impacta 
-- 👩🏻‍💻 I’m currently learning Svelte
+- 👩🏻‍💻 I’m currently working with Svelte
 - 🤔 I’m looking for help with React
 - 💁🏻‍♀️ Pronouns: she/her
 - 👩🏻‍🏫 Fun fact: before studying development, I studied physics!
@@ -24,7 +24,6 @@
   <img align="center" alt="Logotipo Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Logotipo Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Logotipo Dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
-  <img align="right" height="180em" alt="Carol-gif" src="https://i.imgur.com/9WWnF7M.gif">
 </div>
   
   ##
