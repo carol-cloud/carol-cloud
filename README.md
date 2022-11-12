@@ -1,9 +1,8 @@
 ### Welcome 👋 I am Carol! 🖖
 
 
-- 🔭 I’m currently working on frontend development
+- 👩🏻‍💻 My recent experience of work is frontend development
 - 👩‍🎓 I'm studying analysis and systems development at College Impacta 
-- 👩🏻‍💻 I’m currently working with Svelte
 - 🤔 I’m looking for help with React
 - 💁🏻‍♀️ Pronouns: she/her
 - 👩🏻‍🏫 Fun fact: before studying development, I studied physics!
