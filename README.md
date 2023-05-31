@@ -1,7 +1,7 @@
 ### Welcome 👋 I am Carol! 🖖
 
 
-- 👩🏻‍💻 My recent experience of work is frontend development
+- 👩🏻‍💻 My last experience of work is frontend development
 - 👩‍🎓 I'm studying analysis and systems development at College Impacta 
 - 🤔 I’m looking for help with React
 - 💁🏻‍♀️ Pronouns: she/her
