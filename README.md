@@ -3,8 +3,8 @@
 
 - 👩🏻‍💻 My last experience of work is frontend development
 - 👩‍🎓 I'm studying analysis and systems development at College Impacta 
-- 🤔 I’m looking for help with React
-- 💁🏻‍♀️ Pronouns: she/her
+- 🤔 I’m looking for help with Typescript
+- 💁 Pronouns: they
 - 👩🏻‍🏫 Fun fact: before studying development, I studied physics!
 
 <div>
@@ -22,6 +22,7 @@
   <img align="center" alt="Logotipo Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Logotipo Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Logotipo Dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
+  <img align="center" alt="Logotipo Dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 </div>
   
   ##
