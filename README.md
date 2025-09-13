@@ -2,7 +2,7 @@
 
 
 - 👩🏻‍💻 My last experience of work is frontend development
-- 👩‍🎓 I'm graduated analysis and systems development at College Impacta 
+- 👩‍🎓 I'm graduated in analysis and systems development at College Impacta 
 - 🤔 I’m looking for help with Typescript
 - 💁 Pronouns: she,her
 - 👩🏻‍🏫 Fun fact: before studying development, I studied physics!
